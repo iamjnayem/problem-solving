@@ -10,3 +10,5 @@ for($i = 0; $i < 10; $i++){
     echo $array[$i] . "\n";
 }
 
+
+echo $array[12] . "\n";
